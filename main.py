@@ -36,10 +36,11 @@ def master_number_check(number):
 
 
 if __name__ == '__main__':
-    day, month, year = input('Enther birthday in dd.mm.yyyy format (e.g. 18.6.1942: ').split('.')
+    month, day, year = input('Please use mm/dd/yyyy Your Birthdate: ').split('/')
 
     lpn, mn = life_path_number(day, month, year)
     if mn:
-        print(f"Life Path Number/Master Number: {lpn}/{mn}")
+        print(f"Your Life Path Number/Master Number: {lpn}/{mn}")
     else:
         print(f"Life Path Number: {lpn}")
+        print('Your Birth Card Number: ',(lpn-1 + 10))
