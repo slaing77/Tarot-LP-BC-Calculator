@@ -1,0 +1,18 @@
+[[package]]
+name = "nump5y"
+version = "0.0.103"
+description = "A small example package"
+category = "main"
+optional = false
+python-versions = ">=3.2"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "64aa8dd2b256e77662883b31f29f17e8024aaec7b6b9e419e55439c3b39224ca"
+
+[metadata.files]
+nump5y = [
+    {file = "nump5y-0.0.103-py3-none-any.whl", hash = "sha256:6f1b407c8a9a32648b411d1fbbcf9698a722cb00c5642ba9d1ac3a231d618182"},
+    {file = "nump5y-0.0.103.tar.gz", hash = "sha256:63ebc3192340d6ad9140965db94e699cf1e12ed9eeacb18343ab7b31bf9088b6"},
+]
