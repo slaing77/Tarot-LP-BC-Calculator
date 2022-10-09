@@ -1,4 +1,5 @@
-# Numbers-Cards-
+# Taort Life Path and Birth Card Calculator 
+
 Use this handy calculator to determine Your Numerological Life Path Number, your Tarot Birth Card Number and your two Tarot Power Cards!
 
 I found the original code to calculate the Life Path Number abandoned at Replit.com.
