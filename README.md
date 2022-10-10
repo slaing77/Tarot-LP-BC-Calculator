@@ -28,9 +28,12 @@ Enjoy!
 # The Birth Cards
 12 Cards representing the 12 Life Path/Birth Card pairs, as determined by date of birth.
 
-A work in progress. 9/12 added
+A work in progress. 10/12 added (not in any particular order)
 
 Descriptions Coming...
+
+## 19 & 10: The wheel of Fortune & The SUn  
+<img src="images/XIX_X_ The_Wheel_The_Sun.png" width=50% height=50%>
 
 
 ## 11 & 2: Justice & The High Priestess
