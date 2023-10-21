@@ -1,11 +1,10 @@
 # Tarot Life Path and Birth Card Calculator 
 
-Use this handy calculator to determine Your Numerological Life Path Number, your Tarot Birth Card Number and your two Tarot Power Cards!
+Use[ this handy calculator](https://trinket.io/embed/python3/9c7d5e64e9?outputOnly=true&start=result) to determine Your Numerological Life Path Number, your Tarot Birth Card Number and your two Tarot Power Cards!
 
 I found the original code to calculate the Life Path Number abandoned at Replit.com.
 
 # Changes
-
 I added a dictionary to store the key/value pairs of each Major Arcana Card.
 I developed a simple formula to arrive at the Tarot Birth Card Number <p><b>Tarot Birth Card = (Life Path Number-1)+10</b></p>
 <p>I needed to create two more input prompts to call the <b>Life Path Card</b> and the <b>Birth Card</b> Names from the dictionary.</p>
