@@ -4,6 +4,9 @@ Use[ this handy calculator](https://trinket.io/embed/python3/9c7d5e64e9?outputOn
 
 I found the original code to calculate the Life Path Number abandoned at Replit.com.
 
+#Code
+[click here for my calculator .ipynb file](https://github.com/slaing77/Tarot-LP-BC-Calculator/blob/main/codes/Birth%20Card%20Calculator.ipynb)
+
 # Changes
 I added a dictionary to store the key/value pairs of each Major Arcana Card.
 I developed a simple formula to arrive at the Tarot Birth Card Number <p><b>Tarot Birth Card = (Life Path Number-1)+10</b></p>
